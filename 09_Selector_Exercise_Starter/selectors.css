@@ -19,12 +19,21 @@ h2 {
 
 
 /* Make all <li> elements blue(pick your own hexadecimal blue)*/ 
+li {
+	color: rgb(66, 113, 244);
+}
 
 
 /*Change the background on every paragraph to be yellow*/
+p {
+	background: yellow;
+}
 
 
 /*Make all inputs have a 3px red border*/
+input {
+	border: 3px solid red;
+}
 
 
 /* Give everything with the class 'hello' a white background*/
