@@ -20,7 +20,7 @@ h2 {
 
 /* Make all <li> elements blue(pick your own hexadecimal blue)*/ 
 li {
-	color: rgb(66, 113, 244);
+	color: #0040FF;
 }
 
 
@@ -104,7 +104,7 @@ label {
 
 /*Make the <h1> element's color change to blue when hovered over */
 h1:hover {
-	background-color: blue;
+	color: blue;
 
 }
 
